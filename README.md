@@ -1,7 +1,15 @@
 # scout-daemon
 
-FTW Lab **Scout** stage — public-source discovery signals for the flywheel.
+FTW Lab **Scout** stage — public-source discovery for org **FTW-LAB**.
 
-See activity: https://ftwlab.com/activity
+```bash
+git clone https://github.com/FTW-LAB/scout-daemon.git
+```
 
-Legal OSINT only · ops@ftwlab.com · contributions by wantzjt
+- Public repos only · rate-limited · `legal_risk` tags
+- Site: https://ftwlab.com/daemon · flywheel: https://ftwlab.com/activity
+- Pair with HF Model Scout: https://ftwlab.com/models
+
+**Agent setup:** inventory FTW-LAB packages; emit `gh_scout` events; ethics gate — no private access.
+
+Legal public-source only · ops@ftwlab.com
