@@ -1,6 +1,6 @@
-/** @ftw-lab/scout-daemon — public scaffold (FTW-LAB). */
+/** @securist/scout-daemon */
 export const packageId = 'scout-daemon' as const
-export const org = 'FTW-LAB' as const
+export const org = 'securist' as const
 export function banner(): string {
-  return `[FTW Lab] ${org}/${packageId} · UNCLASSIFIED // PUBLIC SOURCE`
+  return `[Securist] ${org}/${packageId} · UNCLASSIFIED // PUBLIC SOURCE`
 }

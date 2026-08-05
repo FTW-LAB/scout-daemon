@@ -1,15 +1,16 @@
 {
-  "name": "@ftw-lab/scout-daemon",
+  "name": "@securist/scout-daemon",
   "version": "0.1.0",
-  "description": "Public GitHub discovery Scout for FTW-LAB",
+  "description": "Public GitHub discovery Scout for Securist",
   "type": "module",
   "license": "MIT",
-  "repository": "https://github.com/FTW-LAB/scout-daemon",
+  "repository": "https://github.com/securist/scout-daemon",
+  "homepage": "https://secur.ist/daemon",
   "scripts": {
     "test": "node -e \"console.log('ok', require('./package.json').name)\""
   },
   "keywords": [
-    "ftw-lab",
+    "securist",
     "infosec"
   ]
 }

@@ -1,20 +1,20 @@
 # scout-daemon
 
-Public GitHub discovery Scout for FTW-LAB
+Public GitHub discovery Scout for Securist
 
-**Org:** [FTW-LAB](https://github.com/FTW-LAB) · **Hub:** [https://ftwlab.com/daemon](https://ftwlab.com/daemon)
+**Securist** · [github.com/securist/scout-daemon](https://github.com/securist/scout-daemon) · [https://secur.ist/daemon](https://secur.ist/daemon)
 
 ```bash
-git clone https://github.com/FTW-LAB/scout-daemon.git
+git clone https://github.com/securist/scout-daemon.git
 cd scout-daemon
 npm test
 ```
 
 ## Security
-See [SECURITY.md](./SECURITY.md) · https://ftwlab.com/security · ops@ftwlab.com
+[SECURITY.md](./SECURITY.md) · https://secur.ist/security · security@secur.ist
 
 ## Agent
-See [AGENT.md](./AGENT.md)
+[AGENT.md](./AGENT.md)
 
 ## Posture
 UNCLASSIFIED // PUBLIC SOURCE  
