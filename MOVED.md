@@ -1,8 +1,7 @@
-# Canonical location
+# Moved
 
-This package is branded **Securist**.
+Canonical home: **https://github.com/securist/scout-daemon**
 
-- **Canonical GitHub:** https://github.com/securist/scout-daemon
-- **Hub:** https://secur.ist
+Site: https://secur.ist
 
-This FTW-LAB mirror exists only until content is fully hosted under github.com/securist.
+This mirror under FTW-LAB is transitional only. Do not treat FTW-LAB as the product brand.

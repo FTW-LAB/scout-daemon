@@ -1,9 +1,10 @@
-# Acceptable Use Policy
+# Acceptable Use
 
-FTW Lab tooling is for **legal public-source (OSINT)** and authorized use only.
+Securist tooling is for **legal public-source (OSINT)** and authorized use only.
 
-- No unauthorized access
-- No malware / exploit weaponization against third parties
-- TARX: upstream integration only
+- No unauthorized access, scanning, or exploitation
+- Respect MaxMind GeoLite2 license terms
+- Respect Hugging Face model licenses
+- Classification: UNCLASSIFIED // PUBLIC SOURCE
 
-Contact: ops@ftwlab.com
+Contact: ops@secur.ist · security@secur.ist
