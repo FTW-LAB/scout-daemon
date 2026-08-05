@@ -2,4 +2,13 @@
 
 Report vulnerabilities to **ops@ftwlab.com**.
 
-Legal public-source / authorized testing only. See AUP.md.
+Public policy: https://ftwlab.com/security
+
+## Scope
+- This repository under org FTW-LAB
+- Legal public-source / authorized testing only
+
+## Out of scope
+- Unauthorized access, credential stuffing, malware distribution
+- Household GeoIP claims
+- Illegal rehost of model weights

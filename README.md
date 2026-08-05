@@ -1,15 +1,23 @@
 # scout-daemon
 
-FTW Lab **Scout** stage — public-source discovery for org **FTW-LAB**.
+Public GitHub discovery Scout for FTW-LAB
+
+**Org:** [FTW-LAB](https://github.com/FTW-LAB) · **Hub:** [https://ftwlab.com/daemon](https://ftwlab.com/daemon)
 
 ```bash
 git clone https://github.com/FTW-LAB/scout-daemon.git
+cd scout-daemon
+npm test
 ```
 
-- Public repos only · rate-limited · `legal_risk` tags
-- Site: https://ftwlab.com/daemon · flywheel: https://ftwlab.com/activity
-- Pair with HF Model Scout: https://ftwlab.com/models
+## Security
+See [SECURITY.md](./SECURITY.md) · https://ftwlab.com/security · ops@ftwlab.com
 
-**Agent setup:** inventory FTW-LAB packages; emit `gh_scout` events; ethics gate — no private access.
+## Agent
+See [AGENT.md](./AGENT.md)
 
-Legal public-source only · ops@ftwlab.com
+## Posture
+UNCLASSIFIED // PUBLIC SOURCE  
+INFOSEC · OSINT · CTI · GEOIP · MODELS  
+
+Public source only. Authorized use. GeoIP is not identity.
